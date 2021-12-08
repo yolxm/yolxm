@@ -22,3 +22,6 @@
 <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mySQL" width="40" height="40"/> </a>
 
 [![yolxm's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolxm&show_icons=true&theme=tokyonight)](https://github.com/yolxm/github-readme-stats)
+
+
+👀 You can reach me at: https://www.linkedin.com/in/yolandamartinez1/
