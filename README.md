@@ -24,4 +24,4 @@
 [![yolxm's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolxm&show_icons=true&theme=tokyonight)](https://github.com/yolxm/github-readme-stats)
 
 
-👀 You can reach me at: https://www.linkedin.com/in/yolandamartinez1/
+👀 You can reach me at: https://www.linkedin.com/in/yolmartinez/
